@@ -8,7 +8,7 @@ using System.Security.Permissions;
 using System.Security.Principal;
 using System.Threading.Tasks;
 using Microsoft.Win32.SafeHandles;
-
+//for dotnet core 3.0
 namespace TestApp
 {
     public class IdentityImpersonator
